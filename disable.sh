@@ -1,0 +1,9 @@
+a2dismod proxy
+a2dismod proxy_http
+a2dismod proxy_ajp
+a2dismod rewrite
+a2dismod deflate
+a2dismod headers
+a2dismod proxy_balancer
+a2dismod proxy_connect
+a2dismod proxy_html
